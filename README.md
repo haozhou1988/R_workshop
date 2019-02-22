@@ -7,8 +7,8 @@ This workshop is for R beginners to be familiar with data management and data vi
     Week 3 TBC
 
 ## Supplementary Materials
-   Reshaping Data with the reshape Package.pdf
-   Tidy Data.pdf 
+    Reshaping Data with the reshape Package.pdf
+    Tidy Data.pdf 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

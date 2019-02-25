@@ -4,7 +4,7 @@ This workshop is for R beginners to be familiar with data management and data vi
 ## Tudorial Frame
     Week 1 Command Basics in R and Subseting Dataset
     Week 2 Rename Columns and Reshape package
-    Week 3 TBC
+    Week 3 Basic Commond in dplyr
 
 ## Supplementary Materials
     Reshaping Data with the reshape Package.pdf
